@@ -3,24 +3,38 @@
     "index.php": {
       "runtime": "now-php@0.0.7"
     }
+  }
+    {
     "autoq.php": {
       "runtime": "now-php@0.0.7"
     }
+  }
+    {
     "live.php": {
       "runtime": "now-php@0.0.7"
     }
+  }
+    {
     "login.php": {
       "runtime": "now-php@0.0.7"
     }
+  }
+    {
     "play.php": {
       "runtime": "now-php@0.0.7"
     }
+  }
+    {
     "stream.php": {
       "runtime": "now-php@0.0.7"
     }
+  }
+    {
     "token.php": {
       "runtime": "now-php@0.0.7"
     }
+  }
+    {
     "localplaylists/index.php": {
       "runtime": "now-php@0.0.7"
     }
