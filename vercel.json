@@ -21,5 +21,8 @@
     "token.php": {
       "runtime": "vercel-php@0.4.0"
     }
+    "localplaylists/index.php": {
+      "runtime": "vercel-php@0.4.0"
+    }
   }
 }
