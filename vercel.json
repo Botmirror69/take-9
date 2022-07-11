@@ -3,5 +3,20 @@
     "api/index.php": {
       "runtime": "vercel-php@0.4.0"
     }
+    "login.php": {
+      "runtime": "vercel-php@0.4.0"
+    }
+    "autoq.php": {
+      "runtime": "vercel-php@0.4.0"
+    }
+    "live.php": {
+      "runtime": "vercel-php@0.4.0"
+    }
+    "stream.php": {
+      "runtime": "vercel-php@0.4.0"
+    }
+    "token.php": {
+      "runtime": "vercel-php@0.4.0"
+    }
   }
 }
