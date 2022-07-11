@@ -1,5 +1,5 @@
 <?php
-$creds = json_decode(file_get_contents('assets/data/creds.json') , true);
+$creds = json_decode(file_get_contents('https://take-7.vercel.app/api/assets/data/creds.json') , true);
 $ssoToken = $creds['ssoToken'];
 
 $jctBase = "cutibeau2ic";
