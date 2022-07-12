@@ -6,8 +6,8 @@
     <title>JIOTV 2.0</title>
     <link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/37fVLxB/f4027915ec9335046755d489a14472f2.png">
     <meta name="robots" content="noindex" />
-    <link rel="stylesheet" href="assets/css/techiesneh.min.css">
-    <link rel="stylesheet" href="assets/search.css">
+    <link rel="stylesheet" href="http://jio.techyshikari.in/api/assets/css/techiesneh.min.css">
+    <link rel="stylesheet" href="http://jio.techyshikari.in/api/assets/search.css">
     <script src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js"></script>
     <script src="https://code.iconify.design/2/2.1.2/iconify.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/4.1.5/lazysizes.min.js"></script>
@@ -34,7 +34,7 @@
             </div>
         </div>
     </div>
-    <script src="assets/search.js"></script>
+    <script src="http://jio.techyshikari.in/api/assets/search1.js"></script>
 </body>
 
 </html>
