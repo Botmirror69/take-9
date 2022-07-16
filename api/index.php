@@ -34,7 +34,7 @@
             </div>
         </div>
     </div>
-    <script src="api/assets/search.js"></script>
+    <script src="api/assets/search1.js"></script>
 </body>
 
 </html>
