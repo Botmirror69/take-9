@@ -1,5 +1,23 @@
 /* Created By : TechieSneh */
 
+.modal-dialog {
+    max-width: 80%;
+    margin: 5px auto;
+}
+
+.modal-body {
+    padding: 2px;
+}
+
+.plyr {
+    height: 100%;
+    width: 100%;
+}
+
+:root {
+    --plyr-color-main: red;
+}
+
 #searchBar {
     width: 45%;
     height: 35px;
