@@ -57,7 +57,7 @@
         </div>
     </div>
     <script src="assets/player.js"></script>
-    <script src="assets/search.js"></script>
+    <script src="assets/search1.js"></script>
 </body>
 
 </html>
